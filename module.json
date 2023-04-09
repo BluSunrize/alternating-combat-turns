@@ -2,7 +2,7 @@
     "name": "alternating-combat-turns",
     "id": "alternating-combat-turns",
     "title": "Alternating Combat Turns",
-    "description": "A simple module for combat initiative that alternates between Players and NPCs ",
+    "description": "A simple module for combat initiative that alternates between Players and NPCs",
     "version": "1.0.0",
     "authors": [
         {
