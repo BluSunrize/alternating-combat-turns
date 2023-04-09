@@ -1,0 +1,36 @@
+{
+    "name": "alternating-combat-turns",
+    "id": "alternating-combat-turns",
+    "title": "Alternating Combat Turns",
+    "description": "A simple module for combat initiative that alternates between Players and NPCs ",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "BluSunrize",
+            "discord": "BluSunrize#0001"
+        }
+    ],
+    "url": "https://github.com/BluSunrize/alternating-combat-turns",
+    "manifest": "https://github.com/BluSunrize/alternating-combat-turns/releases/latest/download/module.json",
+    "download": "https://github.com/BluSunrize/alternating-combat-turns/releases/download/1.0.0/module.zip",
+    "readme": "https://github.com/BluSunrize/alternating-combat-turns/blob/main/README.md",
+    "license": "https://github.com/BluSunrize/alternating-combat-turns/blob/main/LICENSE",
+    "bugs": "https://github.com/BluSunrize/alternating-combat-turns/issues",
+    "esmodules": [
+        "scripts/altcomtur-app.mjs"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+        "minimum": "0.7.9",
+        "verified": 10,
+        "maximum": 11
+    }
+}

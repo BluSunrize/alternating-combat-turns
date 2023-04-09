@@ -1,0 +1,37 @@
+{
+    "ALTCOMTUR.config.image-ally": {
+        "name": "Ally Image",
+        "hint": "Image for Ally Slot"
+    },
+    "ALTCOMTUR.config.image-enemy": {
+        "name": "Enemy Image",
+        "hint": "Image for Enemy Slot"
+    },
+    "ALTCOMTUR.config.name-ally": {
+        "name": "Ally Name",
+        "hint": "Name for Ally Slot"
+    },
+    "ALTCOMTUR.config.name-enemy": {
+        "name": "Enemy Name",
+        "hint": "Name for Enemy Slot"
+    },
+    "ALTCOMTUR.config.handle-neutrals": {
+        "name": "Handle Neutrals",
+        "hint": "How to handle Tokens with Neutral disposition.",
+        "choice.enemy": "Treat Neutrals as enemies",
+        "choice.ally": "Treat Neutrals as allies",
+        "choice.ignore": "Ignore Neutrals"
+    },
+    "ALTCOMTUR.config.leader": {
+        "name": "Leading Initiative",
+        "hint": "Who gets the first slot in the Initiative",
+        "choice.ask": "Ask every time",
+        "choice.ally": "Allies always go first",
+        "choice.enemy": "Enemies always go first"
+    },
+    "ALTCOMTUR.dialog.ask_leader": {
+        "title": "Initiative Leader",
+        "text": "Are the PCs and their allies leading the initiative?"
+    },
+    "ALTCOMTUR.notification.no_roll_init": "Alternating Combat Turns is enabled. Please use the 'Begin Combat' button instead."
+}
